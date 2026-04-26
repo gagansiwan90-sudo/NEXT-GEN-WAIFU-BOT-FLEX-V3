@@ -5,12 +5,12 @@ class Config(object):
     SUDO_USERS = [8053803602]
 
     GROUP_ID = -1003942224732
-    TOKEN = "YOUR_BOT_TOKEN"
+    TOKEN = "8768582373:AAHHznGAcIvtoKkYE3CJxhu6nHKRh3Kz5JQ"
 
     API_ID = 34224204
     API_HASH = "0dfa074770803265e8c61ddda0ad6fb0"
 
-    MONGO_URL = "YOUR_MONGO_URL"
+    MONGO_URL = "mongodb+srv://Elevenyts:Elevenyts@cluster0.vuyc1u2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
     PHOTO_URL = [
         "https://telegra.ph/file/b925c3985f0f325e62e17.jpg",
