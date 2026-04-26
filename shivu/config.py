@@ -15,7 +15,7 @@ class Config(object):
     BOT_USERNAME = "waifuhub_officialBot"
     CHARA_CHANNEL_ID = "-1003985910295"
 api_hash="0dfa074770803265e8c61ddda0ad6fb0"
-api_id="34224204"
+api_id=34224204
 
     
 class Production(Config):
