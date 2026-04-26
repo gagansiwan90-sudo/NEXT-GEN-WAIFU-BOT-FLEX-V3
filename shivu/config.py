@@ -4,16 +4,18 @@ class Config(object):
     # Get this value from my.telegram.org/apps
     OWNER_ID = "6584789596"
     sudo_users = ["5630057244", "2010819209", "5702598840", "6101457748", "6154972031", "1735664760", "7036005233", "6100011620", "7297953309", "6412447141", "7244871367", "5530116994", "6584789596", "949302414"]
-    GROUP_ID = "-1002000314620"
-    TOKEN = "6600186454:AAFLZH3zYUM3V1q_a7RkQ6nnGlHiz5hRxoU"
-    mongo_url = "mongodb+srv://Epic2:w85NP8dEHmQxA5s7@cluster0.tttvsf9.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph//file/e64337bbc6cdac7e6b178.jpg", "https://telegra.ph/file/ed23556d07d33db18402d.jpg", "https://telegra.ph//file/32556c77847dff110577c.jpg", "https://telegra.ph//file/0650844fc5db4049959bc.jpg"]
-    SUPPORT_CHAT = "Grabbing_Your_WH_Group"
-    UPDATE_CHAT = "FLEX_BOTS_NEWS"
-    BOT_USERNAME = "Grabbing_Your_Waifu_Bot"
-    CHARA_CHANNEL_ID = "-1002009998662"
-    api_id = "20533795"
-    api_hash = "f6cadf28523943f525e706e6ace8a250"
+    OWNER_ID = "8546535996"
+    sudo_users = "8053803602"
+    GROUP_ID = -1003942224732
+    TOKEN = "8768582373:AAH2WcT3jCTBwn2B0nY4VJ2EsswW9-v9PxY"
+    mongo_url = "mongodb+srv://Elevenyts:Elevenyts@cluster0.vuyc1u2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    SUPPORT_CHAT = "AdamBot_support"
+    UPDATE_CHAT = "waifugrabbbbotupdates"
+    BOT_USERNAME = "waifuhub_officialBot"
+    CHARA_CHANNEL_ID = "-1003985910295"
+api_hash="0dfa074770803265e8c61ddda0ad6fb0"
+api_id="34224204"
 
     
 class Production(Config):
