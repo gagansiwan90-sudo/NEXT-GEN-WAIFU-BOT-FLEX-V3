@@ -17,7 +17,7 @@ RUN pip install --upgrade pip setuptools wheel
 WORKDIR /app
 
 # ✅ Correct repo
-RUN git clone https://github.com/gagansiwan90-sudo/WAIFU-HUSBANDO-CATCHER .
+RUN git clone https://github.com/gagansiwan90-sudo/NEXT-GEN-WAIFU-BOT-FLEX-V3 .
 
 RUN pip install -r requirements.txt
 
